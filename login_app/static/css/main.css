@@ -1,0 +1,33 @@
+p#green{
+    color: green;
+}
+div#container{
+    padding: 10px;
+    width:500px;
+}
+div#login{
+    border: 1px solid black;
+    padding: 10px;
+    position: relative;
+    float: right;
+    background-color: silver;
+}
+div#registration{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: silver;
+}
+p#form{
+    text-align: left;
+}
+p input{
+    float: right;
+}
+div#text{
+    display: inline-block;
+}
+div#button{
+    position: relative;
+    float: right;
+}
